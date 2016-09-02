@@ -1,0 +1,57 @@
+# carton snapshot format: version 1.0
+DISTRIBUTIONS
+  CGI-Ex-2.44
+    pathname: L/LJ/LJEPSON/CGI-Ex-2.44.tar.gz
+    provides:
+      App1 undef
+      App1::CustInfo undef
+      App1::DoBill undef
+      App1::PickDomain undef
+      App1::PickDomainAlternate undef
+      App1::Thankyou undef
+      CGI::Ex 2.44
+      CGI::Ex::App 2.44
+      CGI::Ex::App::Constants 2.44
+      CGI::Ex::Auth 2.44
+      CGI::Ex::Auth::Data 2.44
+      CGI::Ex::Conf 2.44
+      CGI::Ex::Die 2.44
+      CGI::Ex::Dump 2.44
+      CGI::Ex::Fill 2.44
+      CGI::Ex::JSONDump 2.44
+      CGI::Ex::Template 2.44
+      CGI::Ex::Validate 2.44
+      CGI::Ex::Validate::Error 2.44
+    requirements:
+      ExtUtils::MakeMaker 0
+      Template::Alloy 1.016
+  SQL-Library-0.0.5
+    pathname: C/CH/CHRISV/SQL-Library-0.0.5.tar.gz
+    provides:
+      SQL::Library 0.000005
+    requirements:
+      ExtUtils::MakeMaker 0
+      Test::More 0.47
+  Template-Alloy-1.020
+    pathname: R/RH/RHANDOM/Template-Alloy-1.020.tar.gz
+    provides:
+      Template::Alloy 1.020
+      Template::Alloy::Compile undef
+      Template::Alloy::Context undef
+      Template::Alloy::EvalPerlHandle undef
+      Template::Alloy::Exception undef
+      Template::Alloy::HTE undef
+      Template::Alloy::Iterator undef
+      Template::Alloy::Operator undef
+      Template::Alloy::Parse undef
+      Template::Alloy::Perl undef
+      Template::Alloy::Play undef
+      Template::Alloy::Stream undef
+      Template::Alloy::TT undef
+      Template::Alloy::Tmpl undef
+      Template::Alloy::VMethod undef
+      Template::Alloy::Velocity undef
+      Template::Alloy::_ContextStash undef
+    requirements:
+      Digest::MD5 1
+      ExtUtils::MakeMaker 0

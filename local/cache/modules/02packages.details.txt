@@ -1,0 +1,46 @@
+File:         02packages.details.txt
+URL:          http://www.perl.com/CPAN/modules/02packages.details.txt
+Description:  Package names found in cpanfile.snapshot
+Columns:      package name, version, path
+Intended-For: Automated fetch routines, namespace documentation.
+Written-By:   Carton v1.0.28
+Line-Count:   37
+Last-Updated: Fri Sep  2 14:13:11 2016
+
+App1                              undef  L/LJ/LJEPSON/CGI-Ex-2.44.tar.gz
+App1::CustInfo                    undef  L/LJ/LJEPSON/CGI-Ex-2.44.tar.gz
+App1::DoBill                      undef  L/LJ/LJEPSON/CGI-Ex-2.44.tar.gz
+App1::PickDomain                  undef  L/LJ/LJEPSON/CGI-Ex-2.44.tar.gz
+App1::PickDomainAlternate         undef  L/LJ/LJEPSON/CGI-Ex-2.44.tar.gz
+App1::Thankyou                    undef  L/LJ/LJEPSON/CGI-Ex-2.44.tar.gz
+CGI::Ex                            2.44  L/LJ/LJEPSON/CGI-Ex-2.44.tar.gz
+CGI::Ex::App                       2.44  L/LJ/LJEPSON/CGI-Ex-2.44.tar.gz
+CGI::Ex::App::Constants            2.44  L/LJ/LJEPSON/CGI-Ex-2.44.tar.gz
+CGI::Ex::Auth                      2.44  L/LJ/LJEPSON/CGI-Ex-2.44.tar.gz
+CGI::Ex::Auth::Data                2.44  L/LJ/LJEPSON/CGI-Ex-2.44.tar.gz
+CGI::Ex::Conf                      2.44  L/LJ/LJEPSON/CGI-Ex-2.44.tar.gz
+CGI::Ex::Die                       2.44  L/LJ/LJEPSON/CGI-Ex-2.44.tar.gz
+CGI::Ex::Dump                      2.44  L/LJ/LJEPSON/CGI-Ex-2.44.tar.gz
+CGI::Ex::Fill                      2.44  L/LJ/LJEPSON/CGI-Ex-2.44.tar.gz
+CGI::Ex::JSONDump                  2.44  L/LJ/LJEPSON/CGI-Ex-2.44.tar.gz
+CGI::Ex::Template                  2.44  L/LJ/LJEPSON/CGI-Ex-2.44.tar.gz
+CGI::Ex::Validate                  2.44  L/LJ/LJEPSON/CGI-Ex-2.44.tar.gz
+CGI::Ex::Validate::Error           2.44  L/LJ/LJEPSON/CGI-Ex-2.44.tar.gz
+SQL::Library                   0.000005  C/CH/CHRISV/SQL-Library-0.0.5.tar.gz
+Template::Alloy                   1.020  R/RH/RHANDOM/Template-Alloy-1.020.tar.gz
+Template::Alloy::_ContextStash    undef  R/RH/RHANDOM/Template-Alloy-1.020.tar.gz
+Template::Alloy::Compile          undef  R/RH/RHANDOM/Template-Alloy-1.020.tar.gz
+Template::Alloy::Context          undef  R/RH/RHANDOM/Template-Alloy-1.020.tar.gz
+Template::Alloy::EvalPerlHandle   undef  R/RH/RHANDOM/Template-Alloy-1.020.tar.gz
+Template::Alloy::Exception        undef  R/RH/RHANDOM/Template-Alloy-1.020.tar.gz
+Template::Alloy::HTE              undef  R/RH/RHANDOM/Template-Alloy-1.020.tar.gz
+Template::Alloy::Iterator         undef  R/RH/RHANDOM/Template-Alloy-1.020.tar.gz
+Template::Alloy::Operator         undef  R/RH/RHANDOM/Template-Alloy-1.020.tar.gz
+Template::Alloy::Parse            undef  R/RH/RHANDOM/Template-Alloy-1.020.tar.gz
+Template::Alloy::Perl             undef  R/RH/RHANDOM/Template-Alloy-1.020.tar.gz
+Template::Alloy::Play             undef  R/RH/RHANDOM/Template-Alloy-1.020.tar.gz
+Template::Alloy::Stream           undef  R/RH/RHANDOM/Template-Alloy-1.020.tar.gz
+Template::Alloy::Tmpl             undef  R/RH/RHANDOM/Template-Alloy-1.020.tar.gz
+Template::Alloy::TT               undef  R/RH/RHANDOM/Template-Alloy-1.020.tar.gz
+Template::Alloy::Velocity         undef  R/RH/RHANDOM/Template-Alloy-1.020.tar.gz
+Template::Alloy::VMethod          undef  R/RH/RHANDOM/Template-Alloy-1.020.tar.gz
